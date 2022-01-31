@@ -1,0 +1,7 @@
+C:\Users\SOLITERA-I\Desktop\c sharp\Array\Array\bin\Debug\Array.exe.config
+C:\Users\SOLITERA-I\Desktop\c sharp\Array\Array\bin\Debug\Array.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\Array\Array\bin\Debug\Array.pdb
+C:\Users\SOLITERA-I\Desktop\c sharp\Array\Array\obj\Debug\Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\Array\Array\obj\Debug\Array.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\Array\Array\obj\Debug\Array.pdb
